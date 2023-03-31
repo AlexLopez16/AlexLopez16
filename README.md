@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Different fronted and backend frameworks**
 
-- 💬 Ask me about **MongoDB, Express, ReactJs, NodeJs, PostgreSQL ,HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJs, NodeJs, Java, Spring Boot, MongoDB, Express, PostgreSQL, MySQL **
 
 - 📫 How to reach me **aalejandro.lopezr@hotmail.com**
 
